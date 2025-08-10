@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="assets/rishi-banner.jpg" alt="Portfolio Banner" width="1000" height="300"/>
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Rishabh+Patel+Portfolio" alt="Portfolio Banner" />
-</p>
+
 
 <h1 align="center">💻 Rishabh Patel – Portfolio</h1>
 <p align="center">
