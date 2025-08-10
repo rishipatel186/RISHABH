@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+<!-- https://chatgpt.com/s/m_6898b4afd2e081918dd8dd4deab036b3 -->
 <p align="center">
   <img src="https://via.placeholder.com/1000x300.png?text=Rishabh+Patel+Portfolio" alt="Portfolio Banner" />
 </p>
@@ -28,19 +28,13 @@ My goal is to become a **Full Stack Developer** — building robust, scalable, a
 
 ---
 
-## 📸 Portfolio Highlights
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Project+Screenshot+1" alt="Project Screenshot 1" />
-  <img src="https://via.placeholder.com/800x400.png?text=Project+Screenshot+2" alt="Project Screenshot 2" />
-  <img src="https://via.placeholder.com/800x400.png?text=Project+Screenshot+3" alt="Project Screenshot 3" />
-</p>
 
 ---
 
 ## 📬 Contact Me
 💌 Email: **jp0578171@gmail.com**  
 📷 Instagram: [@patel_rishi_186](https://www.instagram.com/patel_rishi_186?igsh=MTA2b3NiNWxqanRqYQ==)  
-📍 Location: India  
+📍 Location: gujrat
 
 ---
 
