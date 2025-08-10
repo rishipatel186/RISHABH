@@ -1,4 +1,6 @@
-<!-- https://chatgpt.com/s/m_6898b4afd2e081918dd8dd4deab036b3 -->
+<p align="center">
+  <img src="assets/rishi-banner.jpg" alt="Portfolio Banner" width="1000" height="300"/>
+</p>
 <p align="center">
   <img src="https://via.placeholder.com/1000x300.png?text=Rishabh+Patel+Portfolio" alt="Portfolio Banner" />
 </p>
