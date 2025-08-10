@@ -1,42 +1,49 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=My+Graphic+Design+Portfolio" alt="Portfolio Banner" />
+  <img src="https://via.placeholder.com/1000x300.png?text=Rishabh+Patel+Portfolio" alt="Portfolio Banner" />
 </p>
 
-<h1 align="center">🎨 My Graphic Design Portfolio</h1>
+<h1 align="center">💻 Rishabh Patel – Portfolio</h1>
 <p align="center">
-  <b>Showcasing my creativity, projects, and design style in a sleek AI-powered portfolio.</b>
+  <b>Passionate about coding, problem-solving, and creating modern, user-friendly applications.</b>
 </p>
 
 ---
 
-## 🚀 Live Preview
-🌐 **[View My Portfolio](https://tempo-deployment-1fcfc4da-0f75-4375-853d-b96f6d80037-tempo-labs.vercel.app/)**
+## 🚀 Live Portfolio
+🌐 **[View My Work](https://tempo-deployment-1fcfc4da-0f75-4375-853d-b96f6d80037-tempo-labs.vercel.app/)**
 
 ---
 
-## 🏆 Features
-- 📱 **Responsive Design** – Works perfectly on all devices.
-- ⚡ **Fast Loading** – Optimized for speed with Vercel hosting.
-- 🎯 **Clean Layout** – Sections for About, Gallery, and Contact.
-- 🤖 **AI-Built** – Created using [Tempo](https://tempo.io/).
+## 🏆 Skills
+- **Programming Languages:** C, C++, Java, JavaScript, Python
+- **Web Development:** .NET, React, SQL
+- **Operating Systems:** Linux
+- **Other Skills:** Database design, problem-solving, debugging
 
 ---
 
-## 🛠️ Built With
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo_NoCode-FF6F61?style=flat&logo=sparkpost&logoColor=white)
+## 🎯 Goal
+My goal is to become a **Full Stack Developer** — building robust, scalable, and user-friendly web applications by mastering both frontend and backend technologies.
 
 ---
 
-## 📂 Project Structure
-```bash
-.
-├── /public          # Static assets
-├── /src             # Source code
-│   ├── components   # UI components
-│   ├── pages        # Page layouts
-│   └── styles       # Custom styles
-└── README.md        # Documentation
+## 📸 Portfolio Highlights
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Project+Screenshot+1" alt="Project Screenshot 1" />
+  <img src="https://via.placeholder.com/800x400.png?text=Project+Screenshot+2" alt="Project Screenshot 2" />
+  <img src="https://via.placeholder.com/800x400.png?text=Project+Screenshot+3" alt="Project Screenshot 3" />
+</p>
+
+---
+
+## 📬 Contact Me
+💌 Email: **jp0578171@gmail.com**  
+📷 Instagram: [@patel_rishi_186](https://www.instagram.com/patel_rishi_186?igsh=MTA2b3NiNWxqanRqYQ==)  
+📍 Location: India  
+
+---
+
+<p align="center">
+  Designed & Maintained by <b>Rishabh Patel</b>
+</p>
